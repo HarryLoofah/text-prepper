@@ -11,6 +11,7 @@ config = {
     'author_email': 'none',
     'version': '0.1.1',
     'install_requires': ['nose'],
+    'license': ['MIT'],
     'packages': ['text-prepper'],
     'scripts': [],
     'name': 'TextPrepper'
